@@ -1,1 +1,2 @@
 2ª prueba etapa stage
+Cambio en la fase commit
